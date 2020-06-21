@@ -1,0 +1,4 @@
+#Sun Jun 21 13:18:30 IST 2020
+base.0=C\:\\Users\\rajaprabhu_r\\Documents\\GitProjects\\Flutter\\FlutterDart_V1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
